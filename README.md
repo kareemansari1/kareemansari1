@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kareemansari1
-- 👀 I’m interested in System Development And software Development 
-- 🌱 I’m currently learning Java Full stack
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me just Make A call on 7249722840
+- 👋 Hi, I’m kareem
+- A Software Developer: Navigating the World of Backend Engineering
+- 🌱 I’m currently learning Oracle-SQL, PostgreSQL, Core-JAVA (J2SE), HTML, CSS, Java-Script, Spring, Spring-Boot, Micronaut etc...
+-💬 Ask me about Oracle- SQL, JAVA
+-📫 How to reach me kareemansari811@gmail.com
 
 <!---
 kareemansari1/kareemansari1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
