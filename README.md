@@ -1,11 +1,11 @@
-![logo](https://github.com/KareemAnsari/KareemAnsari/blob/main/Banner.gif)
+
 <h1 align="center">👋, I'm Kareem </h1>
 <h2 align="center">A Software Developer: Navigating the World of Backend Engineering</h2>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetbende&label=Profile%20views&color=0e75b6&style=flat" alt="navneetbende" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bendenavneet" target="blank"><img src="https://img.shields.io/twitter/follow/bendenavneet?logo=twitter&style=for-the-badge" alt="bendenavneet" /></a> </p>
+<p align="left"> <a href="https://x.com/KareemA79705567?t=ND7RAroK4aYZoqm2IVUt9w&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/kareemansari?logo=twitter&style=for-the-badge" alt="kareemansari" /></a> </p>
 
 - 🌱 I’m currently learning **Oracle-SQL, PostgreSQL, Core-JAVA (J2SE), HTML, CSS, Java-Script, Spring, Spring-Boot, Micronaut  etc...**
 
