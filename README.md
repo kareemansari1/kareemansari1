@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/KareemA79705567?t=ND7RAroK4aYZoqm2IVUt9w&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/kareemansari?logo=twitter&style=for-the-badge" alt="kareemansari" /></a> </p>
 
-- 🌱 I’m currently learning **Oracle-SQL, PostgreSQL, Core-JAVA (J2SE), HTML, CSS, Java-Script, Spring, Spring-Boot, Micronaut  etc...**
+- 🌱  I’m currently learning Capgemini-Certification-Program-in-Java-Full-Stack.
 
 - 💬 Ask me about **Oracle- SQL, JAVA**
 
