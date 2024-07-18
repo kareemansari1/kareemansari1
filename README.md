@@ -10,7 +10,7 @@
 
 - 🌱  I’m currently learning Capgemini-Certification-Program-in-Java-Full-Stack.
 
-- 💬 Ask me about **MySQL, JAVA, Spring Boot, Hibernate, HTML, CSS, JavaScript**
+- 💬 Ask me about **MySQL, JAVA, Spring Boot, Hibernate, HTML, CSS, JavaScript, Angular**
 
 - 📫 How to reach me **kareemansari811@gmail.com**
 
